@@ -1,6 +1,6 @@
 # Tapdaq Android SDK
 
-The official Android SDK. This is a beta release.
+The official Android SDK.
 
 ## Installation
 
