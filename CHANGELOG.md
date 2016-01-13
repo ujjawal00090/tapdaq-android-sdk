@@ -1,5 +1,11 @@
 # Tapdaq Android SDK Changelog
 
+## 2.3.1 (2016-01-12)
+
+- Improved retrying mechanism on 5xx responses
+- Improved cached image handling to prevent OutOfMemory runtime errors
+- Icon image is now auto-fetched for native ads
+
 ## 2.3.0 (2016-01-05)
 
 - Moved storage of cached data from shared preferences to SQLite
