@@ -1,5 +1,11 @@
 # Tapdaq Android SDK Changelog
 
+## 2.4.0 (2016-01-20)
+
+- Deeplinking support
+- Fixed bug where purged images from cache were not being handled correctly
+- Fixed bug where ad remove d from queue that is currently being displayed
+
 ## 2.3.1 (2016-01-12)
 
 - Improved retrying mechanism on 5xx responses
