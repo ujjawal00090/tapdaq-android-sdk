@@ -1,10 +1,14 @@
 # Tapdaq Android SDK Changelog
 
+## 2.4.1 (2016-01-25)
+
+- Fixed concurrency issue when ad is removed from the queue.
+
 ## 2.4.0 (2016-01-20)
 
 - Deeplinking support
 - Fixed bug where purged images from cache were not being handled correctly
-- Fixed bug where ad remove d from queue that is currently being displayed
+- Fixed bug where ad removed from queue that is currently being displayed
 
 ## 2.3.1 (2016-01-12)
 
