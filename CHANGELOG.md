@@ -1,5 +1,10 @@
 # Tapdaq Android SDK Changelog
 
+## 2.4.2 (2016-04-04)
+
+- Improved error handling.
+- Fixed bug where Android Version was incorrectly formatted. 
+
 ## 2.4.1 (2016-01-25)
 
 - Fixed concurrency issue when ad is removed from the queue.
