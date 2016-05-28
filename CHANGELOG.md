@@ -1,5 +1,11 @@
 # Tapdaq Android SDK Changelog
 
+
+## 2.4.3 (2016-05-28)
+
+- Improved handling of HTTP status codes. 
+- Fixed bug where cancelling Interstitial causes didCloseInterstitial to be called twice.
+
 ## 2.4.2 (2016-04-04)
 
 - Improved error handling.
