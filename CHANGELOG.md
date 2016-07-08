@@ -1,5 +1,9 @@
 # Tapdaq Android SDK Changelog
 
+## 2.4.4 (2016-07-08)
+
+- Fixed crash when app is backgrounded
+- Fixed out of memory crash
 
 ## 2.4.3 (2016-05-28)
 
