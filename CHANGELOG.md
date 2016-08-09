@@ -1,5 +1,11 @@
 # Tapdaq Android SDK Changelog
 
+## 2.5.0 (2016-08-09)
+
+- Added placement tags
+- Improved HTTP client
+- Minor bug fixes
+
 ## 2.4.4 (2016-07-08)
 
 - Fixed crash when app is backgrounded
