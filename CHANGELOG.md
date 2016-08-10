@@ -1,5 +1,9 @@
 # Tapdaq Android SDK Changelog
 
+## 2.5.1 (2016-08-10)
+
+- Fixed test mode
+
 ## 2.5.0 (2016-08-09)
 
 - Added placement tags
