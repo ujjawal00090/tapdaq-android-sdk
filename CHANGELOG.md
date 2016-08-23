@@ -1,5 +1,12 @@
 # Tapdaq Android SDK Changelog
 
+## 2.5.3 (2016-08-23)
+
+- Fixed split string null exception
+
+## 2.5.2 (2016-08-22)
+
+
 ## 2.5.1 (2016-08-10)
 
 - Fixed test mode
