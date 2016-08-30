@@ -1,5 +1,10 @@
 # Tapdaq Android SDK Changelog
 
+## 2.5.4 (2016-08-30)
+
+- Fixed adqueue/callback error on bootup
+- Prevented crash when clicking ad in emulator & devices without the Play Store installed
+
 ## 2.5.3 (2016-08-23)
 
 - Fixed split string null exception
