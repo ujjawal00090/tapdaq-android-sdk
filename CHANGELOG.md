@@ -1,5 +1,10 @@
 # Tapdaq Android SDK Changelog
 
+## 2.5.5 (2016-09-23)
+
+- Initialisation methods have been update, please review your code and the documentation
+- Bug fixes/Stablity improvements
+
 ## 2.5.4 (2016-08-30)
 
 - Fixed adqueue/callback error on bootup
