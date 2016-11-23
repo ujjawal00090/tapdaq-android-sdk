@@ -1,5 +1,9 @@
 # Tapdaq Android SDK Changelog
 
+## 3.0.0 (2016-11-23)
+
+- Mediation Services Added
+
 ## 2.5.5 (2016-09-23)
 
 - Initialisation methods have been update, please review your code and the documentation
