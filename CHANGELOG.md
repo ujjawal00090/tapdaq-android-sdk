@@ -1,5 +1,13 @@
 # Tapdaq Android SDK Changelog
 
+## 3.1.0 (2016-11-30)
+
+- Bug fixes
+-- Displays all networks in debug view (even if not used)
+-- Chartboost occasionally display static interstitial rather than rewarded
+-- Improved Chartboost error handling & logs
+-- Other minor improvements / internal fixes
+
 ## 3.0.0 (2016-11-23)
 
 - Mediation Services Added
