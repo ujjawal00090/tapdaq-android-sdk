@@ -1,5 +1,9 @@
 # Tapdaq Android SDK Changelog
 
+## 3.3.0 (2016-12-08)
+
+- Improved multithreading
+
 ## 3.2.0 (2016-12-08)
 
 - Removed AppCompat dependency. Increased minimum API Level to 11.

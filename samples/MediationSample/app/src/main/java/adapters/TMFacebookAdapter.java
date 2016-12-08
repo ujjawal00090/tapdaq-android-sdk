@@ -287,7 +287,7 @@ public class TMFacebookAdapter implements TMAdapter {
                 mAdListener.onAdLoaded();
 
             if (mListener != null)
-                mListener.onAdLoad(TMMediationNetworks.FACEBOOK, TMAdType.STATIC_INTERSTITIAL, null);
+                mListener.onAdLoad(mCurrentActivity, TMMediationNetworks.FACEBOOK, TMAdType.STATIC_INTERSTITIAL, null);
         }
 
         @Override
