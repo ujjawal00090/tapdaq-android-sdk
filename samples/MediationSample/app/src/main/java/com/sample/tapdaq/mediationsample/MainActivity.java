@@ -26,7 +26,7 @@ import adapters.*;
 *
  */
 
-public class MainActivity extends TMAppCompatActivity {
+public class MainActivity extends TMLifecycleActivity {
 
     TMBannerAdView mBannerAd;
 

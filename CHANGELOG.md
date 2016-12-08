@@ -1,5 +1,10 @@
 # Tapdaq Android SDK Changelog
 
+## 3.2.0 (2016-12-08)
+
+- Removed AppCompat dependency. Increased minimum API Level to 11.
+- Renamed TMAppCompatActivity to TMLifecycleActivity.
+
 ## 3.1.0 (2016-11-30)
 
 - Bug fixes

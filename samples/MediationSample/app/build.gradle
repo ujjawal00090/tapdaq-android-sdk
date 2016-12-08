@@ -37,7 +37,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     //Required by Tapdaq
-    compile 'com.google.android.gms:play-services-ads:10.0.0'
+    compile 'com.google.android.gms:play-services-ads:10.0.1'
     compile 'com.android.support:appcompat-v7:25.0.1'
     compile 'com.google.code.gson:gson:2.4'
     //Required for Facebook Audience Network
