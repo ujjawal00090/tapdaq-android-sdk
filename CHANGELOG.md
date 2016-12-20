@@ -1,5 +1,9 @@
 # Tapdaq Android SDK Changelog
 
+## 3.4.0 (2016-12-20)
+
+- Fullscreen cross promotion interstitial
+
 ## 3.3.0 (2016-12-08)
 
 - Improved multithreading
