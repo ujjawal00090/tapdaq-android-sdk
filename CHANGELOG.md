@@ -1,5 +1,9 @@
 # Tapdaq Android SDK Changelog
 
+## 3.5.0 (2017-01-06)
+
+- Fixed crash on low memory devices
+
 ## 3.4.0 (2016-12-20)
 
 - Fullscreen cross promotion interstitial
